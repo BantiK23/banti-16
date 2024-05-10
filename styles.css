@@ -1,0 +1,30 @@
+body{
+    background-color: lightblue;
+    /* border: 2px solid black; */
+    margin: 25px 25px 25px 25px;
+    font-family: sans-serif;
+
+    
+}
+h1{
+    text-align: center;
+    
+}
+.image_section{
+    text-align: center;
+    margin-top: 50px;
+    margiin
+}
+
+.section1{
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    width: 60%;
+
+
+}
+.section3{
+    text-align: center;
+    margin-bottom: 30px;
+}
